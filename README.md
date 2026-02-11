@@ -171,8 +171,8 @@ Applied ML models for intelligent decision systems.
 # 🎓 Education
 
 Bachelor’s in Software Engineering
-International Islamic University, Islamabad
-Expected Graduation: 20XX
+Riphah International University, Islamabad
+Expected Graduation: Dec,2026
 
 Relevant Coursework:
 
