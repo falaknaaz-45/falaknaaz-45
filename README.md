@@ -1,8 +1,3 @@
-Perfect. Since you’ve done **high-fidelity prototyping in Figma** (and you actually have certification in it), we’ll add UI/UX properly — not just as a random tool, but positioned strategically as a strength.
-
-Here’s your upgraded and polished GitHub profile with UI/UX integrated professionally:
-
----
 
 # 👋 Hi, I'm Falak Irfan
 
@@ -218,13 +213,4 @@ current_focus = {
 
 > Build intelligent systems. Design intuitive interfaces. Write clean code.
 
----
 
-If you want, I can now:
-
-* Make this more **startup-founder vibe**
-* Optimize it specifically for **internship applications (Jazz, Devsinc, Systems Ltd, etc.)**
-* Make it more **AI-specialized branding**
-* Or make it more **minimal and clean**
-
-Tell me the direction you want.
