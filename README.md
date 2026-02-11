@@ -1,7 +1,7 @@
 # Hi there, I'm Falak Irfan 👋
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** and **Computer Science Student** with a strong focus on building innovative solutions using modern technologies. I love turning ideas into reality through code and exploring the intersection of AI and software development.
+I'm a passionate **Software Developer** and **Undergraduate Software Engineer* with a strong focus on building innovative solutions using modern technologies. I love turning ideas into reality through code and exploring the intersection of AI and software development.
 
 - 🔭 Currently working on: **AI-Enhanced Software Projects**
 - 🌱 Learning: **Advanced Flutter Development & Machine Learning**
